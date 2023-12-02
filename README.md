@@ -31,4 +31,4 @@ For detailed inquiries, feel free to contact us at [Lunar V3 Discord](https://ww
 Lunar V3 is developed for educational and research purposes. We do not endorse or promote its use for unfair advantage in competitive gaming scenarios. Users are advised to adhere to the terms of service and rules of the respective games they play.
 ![Lunar V3 Aim Assist](image.png)
 
-![Lunar V3 Aim Assist](lunar  2.png)
+![Lunar V3 Aim Assist2](lunar  2.png)
