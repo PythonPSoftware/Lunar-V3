@@ -16,7 +16,7 @@ Lunar V3 is not just an upgrade; it's a complete overhaul of the popular Lunar n
 
 ## Demo and Usage
 
-For a glimpse into Lunar V3's capabilities, please visit our [demo page](#). *(Note: Replace with actual link if available)*
+For a glimpse into Lunar V3's capabilities, please visit our [demo page](#). *(https://www.youtube.com/watch?v=N53yuC2_gxs)*
 
 Due to the advanced nature of this tool, Lunar V3 is a paid product. To access the software and detailed usage instructions, please contact us directly.
 
